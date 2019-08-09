@@ -1,6 +1,6 @@
 {
-  "title": "SCIDM API TUTORIAL",
-  "description": "國網中心資料市集透過 CKAN 平台提供的預設 API 服務，使用者可以查詢/下載/管理資料。本資料市集使用 CKAN 平台提供 RESTful API 服務，方便使用者與開發者直接使用。常用的工具除了瀏覽器以外，也可以透過 Linux 指令 cURL，或是 ckanpi 指令/Python library 進行進階運用，本次課程將可以學習到restful API操作、metadata基本概念。",
+  "title": "SCIDM API TUTORIAL(replicated)",
+  "description": "original form https://www.katacoda.com/thomas.tsai/scenarios/scidm-api \n國網中心資料市集透過 CKAN 平台提供的預設 API 服務，使用者可以查詢/下載/管理資料。本資料市集使用 CKAN 平台提供 RESTful API 服務，方便使用者與開發者直接使用。常用的工具除了瀏覽器以外，也可以透過 Linux 指令 cURL，或是 ckanpi 指令/Python library 進行進階運用，本次課程將可以學習到restful API操作、metadata基本概念。",
   "details": {
     "steps": [
       {
